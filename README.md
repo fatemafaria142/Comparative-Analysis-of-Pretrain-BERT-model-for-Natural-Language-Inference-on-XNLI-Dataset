@@ -7,7 +7,7 @@ This project aims to perform a comparative analysis of various pre-trained BERT 
 - Bangla-bert-base
 - DistilBERT
 - XLM-Roberta
-- SahajBERT
+
 
 ## Dataset
 The XNLI dataset used in this project is obtained from Hugging Face datasets: [XNLI Dataset Link](https://huggingface.co/datasets/csebuetnlp/xnli_bn?row=8)
