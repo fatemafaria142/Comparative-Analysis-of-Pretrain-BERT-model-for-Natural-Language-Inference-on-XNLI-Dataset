@@ -1,4 +1,4 @@
-# Comparative Analysis of Pretrained BERT Models for Natural Language Inference on XNLI Dataset
+# Comparative Analysis of Pretrained BERT Models for Natural Language Inference on Bangla XNLI Dataset
 
 ## Overview
 This project aims to perform a comparative analysis of various pre-trained BERT models for Natural Language Inference (NLI) using the XNLI dataset available from Hugging Face. The selected BERT models for analysis are:
